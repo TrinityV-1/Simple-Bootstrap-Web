@@ -1,0 +1,54 @@
+
+.jumbotron {
+    padding: 7rem;
+    background-color: #000000;
+}
+.jumbotron h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jumbotron p {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 2rem;
+    font-size: 126%;
+}
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.btn-primary {
+    background-color: rgb(0, 0, 0);
+}
+.btn-lg {
+    color: rgb(255, 255, 255);
+}
+.about {
+    text-align: center;
+    padding-bottom: 4rem;
+}
+.discord {
+    background-color: #000000;
+    text-align: center;
+    padding: 3rem;
+}
+.discord h1 {
+    padding-bottom: 3rem;
+    color: white;
+}
+.discord p {
+    padding-top: 2rem;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100%;
+}
+.gallery h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.penutup {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 3rem;
+}
